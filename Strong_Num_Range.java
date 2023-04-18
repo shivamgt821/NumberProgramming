@@ -1,4 +1,3 @@
-package com.jsp.Programwithmethod;
 import java.util.Scanner;
 class Factorial 
 {

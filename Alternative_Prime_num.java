@@ -27,7 +27,7 @@ class Alternative_Prime_num
 			count++;
 			if(count%2!=0)
 			System.out.println(i);
-	   		}
-		}
+	   	}
+	}
     }
 }

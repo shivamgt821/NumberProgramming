@@ -1,7 +1,7 @@
 import java.util.*;
 class A {
 	
-	public static int m1(int i, int j) {
+	public static int m1(int i, int j){
 		int a,b,c;
 		a = i;
 		b = j;

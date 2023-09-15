@@ -1,5 +1,5 @@
 import java.util.*;
-class A {
+class A  {
 	
 	public static int m1(int i, int j){
 		int a,b,c;
